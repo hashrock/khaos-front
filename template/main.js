@@ -1,2 +1,2 @@
 var sum = require("./lib/index");
-console.log(lib(sum(1,2)));
+console.log(sum(1,2));
